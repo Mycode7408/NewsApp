@@ -47,6 +47,7 @@ Welcome to NewsApp, a news application built with MVVM architecture and Jetpack 
 
 - Clone the Repository:
 ```
+https://github.com/Mycode7408/NewsApp.git
 ```
 - Visit newsapi.org and sign up for an API key, Copy the API key provided
 - Open the build.gradle.kts file in the app module. Find the following line
