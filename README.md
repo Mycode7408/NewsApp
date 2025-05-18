@@ -152,3 +152,5 @@ buildConfigField("String", "API_KEY", "\"<Add your API Key>\"")
 Feel free to improve or add features to the project.
 Create an issue or find the pending issue. All pull requests are welcome 😄
 
+
+
