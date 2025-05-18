@@ -1,4 +1,3 @@
-# NewsApp
 
 Welcome to NewsApp, a news application built with MVVM architecture and Jetpack Compose.
 
